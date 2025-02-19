@@ -51,8 +51,8 @@ Email: zhalilkv@gmail.com
 
 Birthday: 2002-07-09
 
-Age: 22 #
-###
+Age: 22 
+-----------------------------
 
 User ID: 101010
 
@@ -66,7 +66,7 @@ Total Users: 2
 
 Total Users after deletion: 1
 
-###
+-------------------------------
 Generated User ID: 259752963
 
 Generated Password: =*D3bhvh

@@ -53,18 +53,28 @@ Birthday: 2002-07-09
 
 Age: 22 #
 ###
+
 User ID: 101010
 
 Name: Zhalil KAchkynov
+
 Email: zhalilkv@gmail.com
+
 Birthday: 2002-07-09
+
 Total Users: 2
+
 Total Users after deletion: 1
+
 ###
 Generated User ID: 259752963
+
 Generated Password: =*D3bhvh
+
 Password Strength Check: True
+
 Generated Email: john.doe@example.com
+
 Email Validation: True
 
 ![img.png](img.png)

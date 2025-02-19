@@ -44,12 +44,17 @@ The `UserUtil` class provides utility functions with the following static method
  
 ### OUTPUT:
 User ID: 101010
+
 Name: Zhalil Kachkynov
+
 Email: zhalilkv@gmail.com
+
 Birthday: 2002-07-09
+
 Age: 22 #
 ###
 User ID: 101010
+
 Name: Zhalil KAchkynov
 Email: zhalilkv@gmail.com
 Birthday: 2002-07-09
